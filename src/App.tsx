@@ -142,7 +142,7 @@ export default function App() {
 
         {/* CTA */}
         <button
-          onClick={() => window.open("https://giftclick.org/aff_c?offer_id=1178&aff_id=148566", "_blank", "noopener,noreferrer")}
+          onClick={() => window.open("https://linkthem.net/aff_c?offer_id=1178&aff_id=17763", "_blank", "noopener,noreferrer")}
           className="w-full bg-red-600 hover:bg-red-700 active:scale-[0.98] transition-all text-white font-bold text-base py-4 rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-red-200 mb-4"
         >
           Get Started <ArrowRight size={18} />
@@ -262,7 +262,7 @@ export default function App() {
           Join thousands of members already shopping at Target.
         </p>
         <button
-          onClick={() => window.open("https://giftclick.org/aff_c?offer_id=1178&aff_id=148566", "_blank", "noopener,noreferrer")}
+          onClick={() => window.open("https://linkthem.net/aff_c?offer_id=1178&aff_id=17763", "_blank", "noopener,noreferrer")}
           className="w-full bg-red-600 hover:bg-red-700 active:scale-[0.98] transition-all text-white font-bold text-base py-4 rounded-xl flex items-center justify-center gap-2 shadow-lg shadow-red-900/40"
         >
           Claim Your Gift Card <ArrowRight size={18} />
